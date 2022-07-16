@@ -27,6 +27,7 @@ flutter:
   assets:
     - images/
     - images/dices/
+    - images/magic_8_ball/
 
   fonts:
     - family: BukitBulan
