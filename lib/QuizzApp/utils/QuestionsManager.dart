@@ -1,8 +1,8 @@
 
 import 'dart:math';
 
-import 'package:flutter_ui_exercise/constants/QuestionsList.dart';
-import 'package:flutter_ui_exercise/utils/Pair.dart';
+import '../constants/QuestionsList.dart';
+import 'Pair.dart';
 
 class QuestionsManager {
 

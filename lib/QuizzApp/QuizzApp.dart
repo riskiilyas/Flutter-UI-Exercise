@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_exercise/constants/QuestionsList.dart';
-import 'package:flutter_ui_exercise/utils/Pair.dart';
-import 'package:flutter_ui_exercise/utils/QuestionsManager.dart';
+import 'package:flutter_ui_exercise/QuizzApp/utils/Pair.dart';
+import 'package:flutter_ui_exercise/QuizzApp/utils/QuestionsManager.dart';
+
 
 class QuizzApp extends StatelessWidget {
   const QuizzApp({Key? key}) : super(key: key);
