@@ -14,7 +14,9 @@ class QuestionsManager {
   final List<bool> _corrects = [];
   final List<Pair<String, bool>> _questions = QuestionsList.QUESTIONS;
 
-  QuestionsManager([this.maxQuestions = 10]) {
+  QuestionsManager([
+    this.maxQuestions = 10,
+  ]) {
     _totalQuestions = _questions.length;
   }
 
